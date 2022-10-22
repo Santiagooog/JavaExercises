@@ -1,6 +1,7 @@
+// Imprimir n números primos
 import java.util.Scanner;
 
-public class aaa {
+public class Exercise1 {
     public static void main(String[] args) {
 
 
