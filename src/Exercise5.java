@@ -37,6 +37,7 @@ public class Exercise5 {
  
         }
         System.out.println("El promedio de la universidad es "+ (promedioUniversidad/numeroFacultades));
+        sc.close();
 
         
     }
